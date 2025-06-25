@@ -57,8 +57,8 @@ To start the development server:
 ```bash
 npm run dev
 ```
-🌐 Live Link
-👉 Live Demo
+
+👉 Live Demo https://b11a11-auth.web.app/
 
 The application will be accessible at `http://localhost:5173` (or another port if 5173 is in use).
 
