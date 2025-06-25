@@ -57,6 +57,8 @@ To start the development server:
 ```bash
 npm run dev
 ```
+🌐 Live Link
+👉 Live Demo
 
 The application will be accessible at `http://localhost:5173` (or another port if 5173 is in use).
 
